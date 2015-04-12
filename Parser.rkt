@@ -73,6 +73,12 @@
     '()]))
 
 ; Simple lexer loop
-(define (run-lexer port)
-  (when (not (eq? 'eof (calc-lexer port)))
-      (calc-lexer port)))
+;(define (run-lexer port)
+;  (when (not (eq? 'eof (calc-lexer port)))
+;      (calc-lexer port)))
+
+
+;; TO RUN
+
+;; (calc-lexer test-exp1)
+;; lexers take an (open-input-string) port, not a straight up string.
