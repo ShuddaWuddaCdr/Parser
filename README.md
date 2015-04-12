@@ -7,7 +7,9 @@ See: parser.rkt
 
 Sites:
 [Lexers in Racket][1]
+
 [Everything (We Will Say) About Parsing][2]
+
 [Simple Racket Lexer][3]
 
 
